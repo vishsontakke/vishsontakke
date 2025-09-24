@@ -1,72 +1,72 @@
-# Hi there 👋, I'm Vishal Sontakke
+# 👋 Hi, I'm Vishal Sontakke  
 
-I'm a **Full-Stack Developer** passionate about building scalable web apps and contributing to open-source.  
-I love exploring new technologies, solving problems, and automating everyday tasks.  
+🚀 **Software Developer | FinTech & EdTech Enthusiast | Project Manager (Freelancer)**  
+📍 Pune, India  
 
-![Profile Banner](https://via.placeholder.com/900x200.png?text=Vishal+Sontakke+-+Full-Stack+Developer)
-
----
-
-## 🚀 About Me
-- 🌱 Currently learning **Advanced React, Node.js, and Microservices**
-- 👯 Open to collaboration on **Web Apps & Open-Source Projects**
-- 💬 Ask me about **JavaScript, Python, Laravel, React**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vishalsontakke) | [Email](mailto:your.email@example.com)
-- ⚡ Fun fact: I enjoy building side projects and automating repetitive tasks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vishal-sontakke-627634240/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/vishsontakke)  
+📧 sontakkev44@gmail.com | 📱 +91 9657031251  
 
 ---
 
-## 🛠️ Tech Stack
+## 📝 About Me  
+I am a dedicated **Software Developer** with hands-on experience in **FinTech** and **EdTech**. I’ve led and collaborated with cross-functional teams to design, build, and deliver **scalable, secure, and user-friendly web solutions**.  
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- 💻 Skilled in **React, Node.js, PHP, Python, JavaScript, jQuery, Yii2, Laravel**  
+- ☁️ Experienced with **AWS, EC2, RDS, S3** and RESTful APIs  
+- 🔄 Strong background in **Agile, project management, and team leadership**  
+- 📈 Passionate about **building digital learning platforms, FinTech solutions, and enterprise tools**  
 
 ---
 
-## 📂 Featured Projects
+## 💼 Experience  
 
-### 1️⃣ Loan Management App
-![Loan App Demo](https://via.placeholder.com/500x250.gif?text=Loan+App+Demo)
-**Description:** OTP-driven loan onboarding system with partner integration  
-**Tech Stack:** React, Laravel, MySQL  
-**Repo:** [GitHub](https://github.com/vishalsontakke/loan-management) | **Live Demo:** [Link](https://loanapp.example.com)
+### 🚀 Software Developer – LoanTap  
+*08/2025 – Present*  
+- Developed and deployed a complete loan eligibility and lead management system for **Poonawalla Fincorp** using **React** (frontend) and **Node.js** (backend).  
+- Integrated **secure APIs** for real-time eligibility checks, lead capture, and credit data processing.  
+- Collaborated with cross-functional teams to deliver **high-performance FinTech solutions**.   
 
----
-
-### 2️⃣ Portfolio Website
-![Portfolio Demo](https://via.placeholder.com/500x250.gif?text=Portfolio+Demo)
-**Description:** Personal portfolio to showcase projects and blogs  
-**Tech Stack:** React, TailwindCSS  
-**Repo:** [GitHub](https://github.com/vishalsontakke/portfolio) | **Live Demo:** [Link](https://yourwebsite.com)
-
----
-
-### 3️⃣ Expense Tracker
-![Expense Tracker Demo](https://via.placeholder.com/500x250.gif?text=Expense+Tracker+Demo)
-**Description:** Track income and expenses with analytics and charts  
-**Tech Stack:** Node.js, MongoDB, React  
-**Repo:** [GitHub](https://github.com/vishalsontakke/expense-tracker)
+### 🎓 Software Developer – Itvedant Education Pvt. Ltd  
+*10/2023 – 06/2025*  
+- Developed and maintained portals/tools used by **3,000+ students and staff**.  
+- Optimized backend logic and DB queries, boosting system performance by **20%**.  
+- Built **real-time feedback, exam management, and reporting systems**.  
+- Actively contributed to **code reviews, Git version control, and Agile practices**.  
 
 ---
 
-## 📈 GitHub Stats
+## ⚡ Tech Stack  
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishsontakke&show_icons=true&theme=radical&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishsontakke&layout=compact&theme=radical)
+**Languages & Frameworks**  
+`React` `JavaScript` `PHP` `Laravel` `Yii2` `Node.js` `Python` `jQuery`  
 
----
+**Cloud & Databases**  
+`AWS` `EC2` `RDS` `S3` `SQL`  
 
-## 💬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalsontakke)  
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/vishalsontakke)
+**Tools & Practices**  
+`Git` `Scrum` `Agile` `REST APIs` `Project Management`  
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+## 🎓 Education  
+**Bachelor of Computer Applications (BCA)**  
+_Savitribai Phule Pune University_  
+📅 02/2022 – 06/2025  
+
+---
+
+## 📊 GitHub Stats  
+
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishsontakke&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishsontakke&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌟 Let's Connect  
+- 📧 Email: **sontakkev44@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishal-sontakke-627634240/)  
+- 💻 [GitHub](https://github.com/vishsontakke)  
+
+---
+⭐️ From [Vishal Sontakke](https://github.com/vishsontakke)
