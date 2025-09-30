@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vishal-sontakke-627634240/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/vishsontakke)  
-📧 sontakkev44@gmail.com | 📱 +91 9657031251  
+📧 sontakkev44@gmail.com | 📱 +91 9657103251  
 
 ---
 
