@@ -39,7 +39,7 @@ I am a dedicated **Software Developer** with hands-on experience in **FinTech** 
 ## ⚡ Tech Stack  
 
 **Languages & Frameworks**  
-`React` `JavaScript` `PHP` `Laravel` `Yii2` `Node.js` `Python` `jQuery`  
+`Node.js` `SpringBoot` `React` `JavaScript` `PHP` `Laravel` `Yii2` `Python` `jQuery`  
 
 **Cloud & Databases**  
 `AWS` `EC2` `RDS` `S3` `SQL`  
