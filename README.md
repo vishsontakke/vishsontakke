@@ -65,7 +65,7 @@ _Savitribai Phule Pune University_
 ## 🔥 GitHub Streaks & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishsontakke&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=vish2232&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ## 🌟 Let's Connect  
