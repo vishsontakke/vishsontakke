@@ -61,13 +61,6 @@ _Savitribai Phule Pune University_
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishsontakke&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishsontakke&layout=compact&theme=tokyonight)  
 
----
-## 🔥 GitHub Streaks & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishsontakke&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
 ## 🌟 Let's Connect  
 - 📧 Email: **sontakkev44@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vishal-sontakke-627634240/)  
