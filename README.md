@@ -29,10 +29,26 @@ I am a dedicated **Software Developer** with hands-on experience in **FinTech** 
 
 ### 🎓 Software Developer – Itvedant Education Pvt. Ltd  
 *10/2023 – 06/2025*  
-- Developed and maintained portals/tools used by **3,000+ students and staff**.  
-- Optimized backend logic and DB queries, boosting system performance by **20%**.  
-- Built **real-time feedback, exam management, and reporting systems**.  
-- Actively contributed to **code reviews, Git version control, and Agile practices**.  
+• Worked with CI/CD pipelines to streamline development and deployment processes, ensuring faster and reliable
+releases.
+• Participated in deployment activities, including build management, release coordination, and production monitoring.
+• Developed secure REST APIs, implementing authentication, authorization, and best practices for data protection.
+• Built custom backend solutions tailored to business requirements, improving system flexibility and scalability.
+• Followed Agile methodologies, actively participating in sprint planning, stand-ups, and iterative development cycles.
+• Developed scalable backend services using Node.js, Express.js, MySQL and REST APIs, supporting centralized lead
+management, role-based access control, and automated credit workflows for partner banks.
+• Designed and implemented robust error-handling and logging mechanisms for partner bank API integrations, reducing
+production incidents by 20% and ensuring data consistency across distributed systems.
+• Optimized backend microservices by implementing asynchronous processing for heavy OCR tasks, preventing API
+timeouts and allowing the system to handle a 3x increase in document upload volume without performance degradation.
+• Built document verification and OCR pipelines using PaddleOCR and Python to automate extraction and validation of KYC
+documents (PAN, Aadhaar, bank statements), significantly reducing manual verification effort.
+• Integrated OCR-based document verification with backend eligibility systems, improving onboarding accuracy and
+reducing turnaround time.
+• Contributed to CLM (Credit Lifecycle Management) for Bank of Maharashtra by implementing backend validation logic,
+API integrations, and workflow automation.
+• Developed loan eligibility engine using Node.js, Express, React.js, MySQL and REST APIs, reducing onboarding time by
+50%.
 
 ---
 
